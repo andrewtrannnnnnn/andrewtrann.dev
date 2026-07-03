@@ -1,0 +1,5 @@
+# JetBrains configuration directory
+.idea/
+
+# Depdendencies directory
+node_modules/
