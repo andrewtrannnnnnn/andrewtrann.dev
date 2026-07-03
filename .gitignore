@@ -3,3 +3,6 @@
 
 # Depdendencies directory
 node_modules/
+
+# Webpack build output directory
+dist/
